@@ -1,3 +1,7 @@
-# City Maps
-Random city maps, created using OSM data.
- 
+# Map of Your City
+
+This project is based on [city_maps(https://github.com/ivabrunec/city_maps) and was adapted to create a map of mine.
+
+
+
+
